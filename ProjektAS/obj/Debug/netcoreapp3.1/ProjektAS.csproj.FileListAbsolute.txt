@@ -1,0 +1,14 @@
+C:\Users\owenk\source\repos\ProjektAS\ProjektAS\bin\Debug\netcoreapp3.1\ProjektAS.exe
+C:\Users\owenk\source\repos\ProjektAS\ProjektAS\bin\Debug\netcoreapp3.1\ProjektAS.deps.json
+C:\Users\owenk\source\repos\ProjektAS\ProjektAS\bin\Debug\netcoreapp3.1\ProjektAS.runtimeconfig.json
+C:\Users\owenk\source\repos\ProjektAS\ProjektAS\bin\Debug\netcoreapp3.1\ProjektAS.runtimeconfig.dev.json
+C:\Users\owenk\source\repos\ProjektAS\ProjektAS\bin\Debug\netcoreapp3.1\ProjektAS.dll
+C:\Users\owenk\source\repos\ProjektAS\ProjektAS\bin\Debug\netcoreapp3.1\ProjektAS.pdb
+C:\Users\owenk\source\repos\ProjektAS\ProjektAS\obj\Debug\netcoreapp3.1\ProjektAS.Form1.resources
+C:\Users\owenk\source\repos\ProjektAS\ProjektAS\obj\Debug\netcoreapp3.1\ProjektAS.csproj.GenerateResource.cache
+C:\Users\owenk\source\repos\ProjektAS\ProjektAS\obj\Debug\netcoreapp3.1\ProjektAS.AssemblyInfoInputs.cache
+C:\Users\owenk\source\repos\ProjektAS\ProjektAS\obj\Debug\netcoreapp3.1\ProjektAS.AssemblyInfo.cs
+C:\Users\owenk\source\repos\ProjektAS\ProjektAS\obj\Debug\netcoreapp3.1\ProjektAS.csproj.CoreCompileInputs.cache
+C:\Users\owenk\source\repos\ProjektAS\ProjektAS\obj\Debug\netcoreapp3.1\ProjektAS.dll
+C:\Users\owenk\source\repos\ProjektAS\ProjektAS\obj\Debug\netcoreapp3.1\ProjektAS.pdb
+C:\Users\owenk\source\repos\ProjektAS\ProjektAS\obj\Debug\netcoreapp3.1\ProjektAS.genruntimeconfig.cache

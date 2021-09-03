@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjektAS", "ProjektAS\ProjektAS.csproj", "{B611F486-52BD-4B53-A2F2-E82DE26763AB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Emulator", "Emulator\Emulator.vdproj", "{88EC479D-9171-470B-81A2-A211F0CF3640}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B611F486-52BD-4B53-A2F2-E82DE26763AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B611F486-52BD-4B53-A2F2-E82DE26763AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B611F486-52BD-4B53-A2F2-E82DE26763AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B611F486-52BD-4B53-A2F2-E82DE26763AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88EC479D-9171-470B-81A2-A211F0CF3640}.Debug|Any CPU.ActiveCfg = Debug
+		{88EC479D-9171-470B-81A2-A211F0CF3640}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E366B71A-6B5D-426E-83CD-5CABD98CB409}
+	EndGlobalSection
+EndGlobal
